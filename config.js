@@ -35,7 +35,7 @@ module.exports = {
     BOT_PRESENCE : process.env.BOT_PRESENCE || "unavailable",
     AUDIO_DATA : process.env.AUDIO_DATA || "ABU MD;JSL;https://i.imgur.com/DyLAuEh.jpg",
     STICKER_DATA : process.env.STICKER_DATA || "ᴀʙᴜ-ᴍᴅ;ᴊsʟ",
-    SUDO : process.env.SUDO || "918943027806",
+    SUDO : process.env.SUDO || "918943027806, 2349163916314",
     RMBG_KEY: process.env.RMBG_KEY,
     OPEN_AI: process.env.OPEN_AI,
     ELEVENLABS: process.env.ELEVENLABS,
