@@ -24,12 +24,12 @@
     "MODE": {
       "description": "enter bot mode must be public/private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "Afx-Abu;Abu-MD;https://i.imgur.com/o3WP9EK.jpeg"
+      "value": ".;𝖀𝖑𝖙-𝕬𝕽;https://i.imgur.com/o3WP9EK.jpeg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -69,7 +69,7 @@
     "WARN": {
       "description": "warn count",
       "required": true,
-      "value": "4"
+      "value": "3"
     },
     "SUDO": {
       "description": "secounds owners of bot",
